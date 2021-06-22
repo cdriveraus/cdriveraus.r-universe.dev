@@ -1,0 +1,10 @@
+[
+    {
+        "package": "ctsem",
+        "url": "https://github.com/cdriveraus/ctsem"
+    },
+    {
+        "package": "bigIRT",
+        "url": "https://github.com/cdriveraus/bigIRT"
+    }
+]
